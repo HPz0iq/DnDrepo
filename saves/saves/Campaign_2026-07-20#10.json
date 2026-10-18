@@ -1,0 +1,333 @@
+{
+  "name": "John Long",
+  "race": "Elf",
+  "class": "Monk 1",
+  "level": "Custom Background",
+  "playerName": "Saggintsixes",
+  "alignment": "Lawful Evil",
+  "experience": "(Milestone)",
+  "faith": "???",
+  "appearance1": "Man · Age 1300 · Medium",
+  "appearance2": "180cm · 187 lb",
+  "appearance3": "Dark milk-white skin · Black eyes · White hair",
+  "inspiration": true,
+  "ac": "14",
+  "init": "+3",
+  "speed": "40 ft",
+  "hpCur": "24",
+  "hpMax": "24",
+  "hpTemp": "0",
+  "prof": "2",
+  "immunities": "Magical Sleep",
+  "advantages": "Advantage on saving throws made to avoid or end the Charmed condition (Fey Ancestry)",
+  "saveDC": "11",
+  "hitDice": "3d8",
+  "kiPoints": "3",
+  "deathSaves": {
+    "f0": false,
+    "f1": false,
+    "f2": false,
+    "s0": false,
+    "s1": false,
+    "s2": false
+  },
+  "kiSpent": {
+    "0": false,
+    "1": false,
+    "2": false
+  },
+  "equipment": {},
+  "abilities": {
+    "str": 15,
+    "dex": 16,
+    "con": 15,
+    "int": 11,
+    "wis": 13,
+    "cha": 12
+  },
+  "saveProf": {
+    "str": true,
+    "dex": true,
+    "con": false,
+    "int": false,
+    "wis": false,
+    "cha": false
+  },
+  "skills": [
+    {
+      "name": "Acrobatics",
+      "ab": "dex",
+      "prof": true,
+      "temp": false
+    },
+    {
+      "name": "Animal Handling",
+      "ab": "wis",
+      "prof": false,
+      "temp": false
+    },
+    {
+      "name": "Arcana",
+      "ab": "int",
+      "prof": false,
+      "temp": false
+    },
+    {
+      "name": "Athletics",
+      "ab": "str",
+      "prof": false,
+      "temp": false
+    },
+    {
+      "name": "Deception",
+      "ab": "cha",
+      "prof": false,
+      "temp": false
+    },
+    {
+      "name": "History",
+      "ab": "int",
+      "prof": false,
+      "temp": false
+    },
+    {
+      "name": "Insight",
+      "ab": "wis",
+      "prof": true,
+      "temp": false
+    },
+    {
+      "name": "Intimidation",
+      "ab": "cha",
+      "prof": false,
+      "temp": false
+    },
+    {
+      "name": "Investigation",
+      "ab": "int",
+      "prof": false,
+      "temp": false
+    },
+    {
+      "name": "Medicine",
+      "ab": "wis",
+      "prof": false,
+      "temp": false
+    },
+    {
+      "name": "Nature",
+      "ab": "int",
+      "prof": false,
+      "temp": false
+    },
+    {
+      "name": "Perception",
+      "ab": "wis",
+      "prof": true,
+      "temp": false
+    },
+    {
+      "name": "Performance",
+      "ab": "cha",
+      "prof": true,
+      "temp": false
+    },
+    {
+      "name": "Persuasion",
+      "ab": "cha",
+      "prof": false,
+      "temp": false
+    },
+    {
+      "name": "Religion",
+      "ab": "int",
+      "prof": false,
+      "temp": false
+    },
+    {
+      "name": "Sleight of Hand",
+      "ab": "dex",
+      "prof": true,
+      "temp": false
+    },
+    {
+      "name": "Stealth",
+      "ab": "dex",
+      "prof": true,
+      "temp": false
+    },
+    {
+      "name": "Survival",
+      "ab": "wis",
+      "prof": false,
+      "temp": false
+    }
+  ],
+  "senses": "Darkvision 60 ft.",
+  "profArmor": "None",
+  "profWeapons": "Crossbow, Hand, Scimitar, Shortsword, Simple Weapons",
+  "profTools": "Glassblower's Tools, Harp, Songhorn",
+  "profLang": "Common, Draconic, Dwarvish, Gibberish",
+  "actionsInCombat": "Attack, Magic, Dash, Disengage, Dodge, Help, Hide, Ready, Search, Utilize, Opportunity Attack, Grapple, Shove, Improvise, Two-Weapon Fighting, Interact with an Object, Study, Influence",
+  "bonusActions": "Flurry of Blows\nYou can expend 1 Focus Point to make two Unarmed Strikes as a Bonus Action.\n\nArms of the Astral Self\nSpend 1 Ki point to summon the arms of your astral self. Each creature of your choice you can see within 10 feet of you must succeed on a Dexterity saving throw or take force damage equal to two rolls of your Martial Arts die. Lasts 10 minutes; vanishes early if you're incapacitated or die. While present: use Wisdom in place of Strength for Strength checks and saves; the arms can make unarmed strikes with 5 ft. extra reach; those unarmed strikes use Wisdom in place of Strength or Dexterity for attack and damage, and deal force damage.\n\nPatient Defense\nYou can take the Disengage action as a Bonus action. Focused Patient Defense: you can expend 1 Focus Point to take both the Disengage and Dodge actions as a Bonus Action.\n\nStep of the Wind\nYou can take the Dash action as a Bonus Action. Focused Step of the Wind: you can expend 1 Focus Point to take both the Disengage and Dash actions as a Bonus Action, and your jump distance is doubled for the turn.\n\nUnarmed Strike\nYou can make an Unarmed Strike as a Bonus Action, while unarmed or wielding only Monk weapons, provided you aren't wearing armor or wielding a Shield.",
+  "spellClass": "Elven Lineage",
+  "spellAbility": "—",
+  "spellAtk": "+3",
+  "cpCP": "0",
+  "cpSP": "1",
+  "cpEP": "0",
+  "cpGP": "58 + 150",
+  "cpPP": "0",
+  "weightCarried": "0 lb.",
+  "encumbered": "225 lb.",
+  "pushDrag": "450 lb.",
+  "features": "=== MONK FEATURES ===\n\nMartial Arts\nYou gain the following benefits when unarmed or wielding only Monk weapons, provided you aren't wearing armor or wielding a Shield: you can make an Unarmed Strike as a Bonus Action; you can roll 1d6 in place of the normal damage from your Unarmed Strikes or Monk weapons; you can use Dex. instead of Str. for the attack and damage rolls of your Unarmed Strikes and Monk Weapons, and for the save DC of Grapple or Shove.\n\nUnarmored Defense\nWhile you aren't wearing armor or wielding a Shield, your base AC equals 14.\n\nMonk's Focus\nYou have 2 Focus Points and regain all expended points after a Short or Long Rest. Known features: Flurry of Blows, Patient Defense, Step of the Wind. Save DC for these features = 8 + Wis. modifier + Prof. Bonus.\n\nUnarmored Movement\nYour speed increases by 10 ft. while you aren't wearing armor or wielding a Shield.\n\nUncanny Metabolism\nOnce per Long Rest, when you roll Initiative you can regain all expended Focus Points and regain 1d6+2 HP.\n\n=== WAY OF THE ASTRAL SELF ===\n\nForms of Your Astral Self\nA monk who follows the Way of the Astral Self believes their body is an illusion. They see their ki as a representation of their true form, an astral self, which can be a force of order or disorder. The astral self is a translucent embodiment of the monk's soul and can reflect aspects of their background, ideals, flaws, and bonds — it doesn't necessarily look anything like the monk.\n\nArms of the Astral Self (3rd level)\nAs a Bonus Action, spend 1 Ki point to summon the arms of your astral self. Each creature of your choice you can see within 10 feet of you must succeed on a Dexterity saving throw or take force damage equal to two rolls of your Martial Arts die. The spectral arms hover near your shoulders or surround your arms (your choice), last 10 minutes, and vanish early if you are incapacitated or die.\nWhile the arms are present: use your Wisdom modifier in place of Strength for Strength checks and saving throws; the arms can make unarmed strikes; an unarmed strike with the arms has 5 ft. greater reach; those unarmed strikes use Wisdom in place of Strength or Dexterity for attack and damage rolls, and deal force damage.\n\n=== ELF SPECIES TRAITS ===\n\nCreature Type\nYou are a Humanoid, and also considered an elf for any prerequisite or effect that requires you to be an elf.\n\nAstral Fire\nYou know one of the following cantrips of your choice: dancing lights, light, or sacred flame. Intelligence, Wisdom, or Charisma is your spellcasting ability for it.\n\nDarkvision\nYou can see in dim light within 60 feet as if it were bright light, and in darkness as if it were dim light. Colors in that darkness appear only as shades of gray.\n\nFey Ancestry\nYou have advantage on saving throws you make to avoid or end the Charmed condition on yourself.\n\nKeen Senses\nYou have proficiency in the Perception skill.\n\nStarlight Step\nAs a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. Usable a number of times equal to your proficiency bonus, all uses regained on a long rest.\n\nAstral Trance\nYou don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours in a trancelike meditation, remaining conscious throughout. On finishing this trance, you gain proficiency in one skill and one weapon or tool of your choice, retained until your next long rest.\n\nLanguages\nCommon and one other language agreed with your DM.",
+  "persTraits": "I like to read and memorize poetry. It keeps me calm and brings me fleeting moments of happiness.",
+  "ideals": "I'm a monster that destroys other monsters, and anything else that gets in my way. (Evil)",
+  "bonds": "I have a child to protect. I must make the world a safer place for him (or her).",
+  "flaws": "I assume the worst in people.",
+  "allies": "=== Allies ===\n???\n\n=== Organizations ===\n???",
+  "charAppearanceNotes": "???",
+  "backstory": "Woke up in a prison and was approached by a strange guard, who arrived wearing a cloak, spat on him, and humiliated him. The guard had magical shoes that let him disappear. Found a chest containing a quarterstaff, a new set of clothes, and 100 gold — took it all. One scroll of revive and one potion left.",
+  "diary": "Dreaming of a house, children & a wife maybe, a book with day 600: I lost her.\nA demon keeps chasing me & killing me in my dreams.\nI can teleport but feel weak after doing so.\n\nBook: Helios Aandy — explosion stones / fireball spell, aal stone: basically the same effect.\nActivation requirement: the person who does it needs to be able to cast fireball, and needs special jewelry.\n\nNecklace page: the creators cannot make it explode. Red note: trying to take it off will make it explode instantly, killing you & removing your head — unable to revive again.\n\nHow to undo the magic: very specific items — ironwork & magical items, magical thread, magical needles, dagger, taamel silencing, a ring, mtee el stone.\n\nGot: magical thread with magical dagger.",
+  "notes": "Session notes, reminders, loot to track...",
+  "attacks": [
+    [
+      "Unarmed Strike",
+      "5 ft.",
+      "+5",
+      "1d6+3 Bludgeoning",
+      ""
+    ],
+    [
+      "Unarmed Strike",
+      "5 ft.",
+      "+5",
+      "1d6+3 Bludgeoning",
+      ""
+    ],
+    [
+      "Flurry of Blows",
+      "5 ft.",
+      "+5",
+      "1d6+3 Bludgeoning",
+      ""
+    ]
+  ],
+  "defense": [
+    [
+      "Deflect Attack",
+      "—",
+      "—",
+      "1d10+6",
+      "Reaction"
+    ],
+    [
+      "Deflect Attack: redirect",
+      "—",
+      "DC 11 Dex",
+      "2d6+3",
+      "Reaction"
+    ]
+  ],
+  "spells": [
+    [
+      "Sacred Flame (cantrip)",
+      "+3",
+      "Self",
+      "Instantaneous"
+    ]
+  ],
+  "inventory": [
+    [
+      "Boots of Teleportation",
+      "Boots",
+      "1",
+      "2",
+      "Teleport once per long rest, can break",
+      "rare"
+    ],
+    [
+      "Dull Daggers",
+      "Weapon",
+      "7",
+      "0.5",
+      "",
+      "common"
+    ],
+    [
+      "Potion",
+      "Consumable",
+      "2",
+      "0.5",
+      "",
+      "common"
+    ],
+    [
+      "Necklace of Amber",
+      "Amulet",
+      "1",
+      "0.1",
+      "Resistance to being wet",
+      "uncommon"
+    ],
+    [
+      "Cloak of Shadows",
+      "Cloak",
+      "1",
+      "1",
+      "+2 Stealth checks @Stealth+2",
+      "uncommon"
+    ],
+    [
+      "Sending Stones",
+      "Gear",
+      "1",
+      "1",
+      "",
+      "uncommon"
+    ],
+    [
+      "Cheater's Coin",
+      "Gear",
+      "1",
+      "0",
+      "",
+      "cursed"
+    ],
+    [
+      "Silver Rings",
+      "Ring",
+      "5",
+      "0",
+      "",
+      "common"
+    ],
+    [
+      "Gold Rings",
+      "Ring",
+      "2",
+      "0",
+      "",
+      "common"
+    ]
+  ],
+  "magicItems": [
+    [
+      "Ring — ",
+      "Ring",
+      "1",
+      "0",
+      "Casts Firebolt",
+      "rare"
+    ],
+    [
+      "Magical thread with magical dagger",
+      "Gear",
+      "1",
+      "0",
+      "",
+      "legendary"
+    ]
+  ]
+}
