@@ -34,7 +34,7 @@
     "1": false,
     "2": false,
     "3": false,
-    "4": true
+    "4": false
   },
   "crownSpent": {
     "0": false,
@@ -57,7 +57,7 @@
     "con": 15,
     "int": 11,
     "wis": 21,
-    "cha": 12
+    "cha": 1
   },
   "saveProf": {
     "str": false,
